@@ -1,0 +1,130 @@
+
+body {
+    background-color: #aa7209d5; /* Cambiado a un color gris claro */
+    color: #333; /* Cambiado a un color gris oscuro para un contraste suave */
+    font-family: 'Helvetica Neue', sans-serif; /* Cambiado a Helvetica Neue para un aspecto más moderno */
+}
+
+.arcily {
+    height: 221px;
+
+
+}
+.kipch {
+    text-align: left ;
+  margin-left: -300px;
+  height: 275px;
+    
+  }
+
+.maska {
+      height: 275px;
+    }
+
+.arcil  {
+  text-align: left 500px;
+  margin-left: -300px;
+
+}
+
+p {
+   color: #ffffff;
+   font-size: 1.4em;
+   margin-left: -300px;
+
+}
+header {
+    text-align: center;
+    padding: 10px;
+    background-color: #F5F5DC }
+
+
+    
+      
+    header h1 {
+        color: #DEB887; /* Cambiado a blanco para un contraste más alto */
+        font-size: 2.5em; /* Reducido para un aspecto más limpio */
+        text-align: center;
+    }
+        header img {
+            height: 90px; /* высота изображения */
+            margin-right: 50px; /* отступ справа */
+            margin-left: 50px;
+            margin-bottom: 200px;
+            margin-top: -20px;
+            float: left;
+        }
+
+        nav {
+            background-color: #F5F5DC;
+            color: #DEB887; /* Cambiado a blanco para un contraste más alto */
+            text-align: center;
+            font-size: 1.3rem;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        nav li {
+            display: inline-block;
+            margin: 0 20px;
+            cursor: pointer;
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
+
+        nav li:hover {
+            background-color: #FFFF99;
+            color: #d9e0d9;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #e6e9e6;
+        }
+
+        .quienes-somos, .a-que-nos-dedicamos, .nuestros-proyectos, .cuarto-seccion {
+            display: none;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+        .visible {
+            display: block;
+        }
+    
+        .compen {
+            margin-top: 10px; 
+            margin: 0 20px; 
+            width: 600px;
+            margin-left: 2px;
+            height: 100px;
+        }
+        .ocompen {
+            margin-top: 10px; 
+            margin: 0 20px; 
+            width: 600px;
+            margin-left: 2px;
+            height: 600px;
+        }
+         
+        .esca {
+            width: 800px;
+        }
+
+        .logos {
+          margin-top: 25px;
+          width: 20px;
+          display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+    
+        
