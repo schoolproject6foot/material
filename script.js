@@ -1,7 +1,7 @@
 
 function mostrarSeccion(seccion) {
     // Скрыть все разделы
-    var secciones = document.querySelectorAll('.quienes-somos, .a-que-nos-dedicamos, .nuestros-proyectos, cuarto-seccion');
+    var secciones = document.querySelectorAll('.quienes-somos, .a-que-nos-dedicamos, .nuestros-proyectos, .cuarto-seccion, .cinco-seccion, .zero-seccion ');
     for (var i = 0; i < secciones.length; i++) {
         secciones[i].classList.remove('visible');
     }
