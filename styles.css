@@ -27,7 +27,7 @@ body {
 
 }
 
-p {
+p, .mama {
    color: #ffffff;
    font-size: 1.4em;
    margin-left: -300px;
@@ -89,7 +89,7 @@ header {
             color: #e6e9e6;
         }
 
-        .quienes-somos, .a-que-nos-dedicamos, .nuestros-proyectos, .cuarto-seccion {
+        .quienes-somos, .a-que-nos-dedicamos, .nuestros-proyectos, .cuarto-seccion, .cinco-seccion, .zero-seccion {
             display: none;
             margin-top: 20px;
             margin-bottom: 20px;
